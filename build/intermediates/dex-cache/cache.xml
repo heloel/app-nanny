@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\GuillermoArturo\.gradle\caches\modules-2\files-2.1\com.parse\parse-android\1.13.0\58a7d54b6a4f28be11f0cecec93097eddf473e6f\parse-android-1.13.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="58a7d54b6a4f28be11f0cecec93097eddf473e6f">
+        <dex dex="C:\Users\GuillermoArturo\Desktop\Android\diggy_dog\app\build\intermediates\pre-dexed\debug\parse-android-1.13.0-f2b1dd9b109e85fd67017aa44bdd8519e0618db8.jar" />
+    </item>
+    <item
+        jar="C:\Users\GuillermoArturo\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-android\1.2.1\44780c2cf98f6a3cf4e77f1234d644758b329201\bolts-android-1.2.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="44780c2cf98f6a3cf4e77f1234d644758b329201">
+        <dex dex="C:\Users\GuillermoArturo\Desktop\Android\diggy_dog\app\build\intermediates\pre-dexed\debug\bolts-android-1.2.1-ea4d87f0ee27acf380b46e746ca733645cea0280.jar" />
+    </item>
+    <item
+        jar="C:\Users\GuillermoArturo\Desktop\Android\diggy_dog\app\build\intermediates\exploded-aar\com.parse\parsefacebookutils-v4-android\1.10.4\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="27521d0efb1754db5f7c940ba06b00a4dfa1958f">
+        <dex dex="C:\Users\GuillermoArturo\Desktop\Android\diggy_dog\app\build\intermediates\pre-dexed\debug\classes-981aac6350625c60011f21b3cc0d9aee81886d67.jar" />
+    </item>
+    <item
+        jar="C:\Users\GuillermoArturo\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife\7.0.1\d5d13ea991eab0252e3710e5df3d6a9d4b21d461\butterknife-7.0.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d5d13ea991eab0252e3710e5df3d6a9d4b21d461">
+        <dex dex="C:\Users\GuillermoArturo\Desktop\Android\diggy_dog\app\build\intermediates\pre-dexed\debug\butterknife-7.0.1-7b4630dd58d8857eb9fe3892ac1b8611f797ce3b.jar" />
+    </item>
+    <item
+        jar="C:\Users\GuillermoArturo\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.1\support-annotations-22.2.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="C:\Users\GuillermoArturo\Desktop\Android\diggy_dog\app\build\intermediates\pre-dexed\debug\support-annotations-22.2.1-f55de3d699e500ec33239b66b204034bdb1baa18.jar" />
+    </item>
+    <item
+        jar="C:\Users\GuillermoArturo\Desktop\Android\diggy_dog\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\22.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e0b0c35d02308b270015a74cada4887e2e49b889">
+        <dex dex="C:\Users\GuillermoArturo\Desktop\Android\diggy_dog\app\build\intermediates\pre-dexed\debug\classes-33d949fc64fc1720cd28263b1eb7258d494609b8.jar" />
+    </item>
+    <item
+        jar="C:\Users\GuillermoArturo\Desktop\Android\diggy_dog\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="C:\Users\GuillermoArturo\Desktop\Android\diggy_dog\app\build\intermediates\pre-dexed\debug\classes-6fa40a81a322b0eb0ac226cc5dd7bd21d8d4cfb7.jar" />
+    </item>
+    <item
+        jar="C:\Users\GuillermoArturo\Desktop\Android\diggy_dog\app\build\intermediates\exploded-aar\com.android.support\design\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="fc63b820d54c8a27a3a614bdd93920e0076581c2">
+        <dex dex="C:\Users\GuillermoArturo\Desktop\Android\diggy_dog\app\build\intermediates\pre-dexed\debug\classes-c647f7b00b0a88f4b813a0d9dec41e17028fbc4e.jar" />
+    </item>
+    <item
+        jar="C:\Users\GuillermoArturo\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="C:\Users\GuillermoArturo\Desktop\Android\diggy_dog\app\build\intermediates\pre-dexed\debug\bolts-tasks-1.4.0-c8191b5ea488342a9dfc1dcee1c7319a3b97fb6d.jar" />
+    </item>
+    <item
+        jar="C:\Users\GuillermoArturo\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="C:\Users\GuillermoArturo\Desktop\Android\diggy_dog\app\build\intermediates\pre-dexed\debug\picasso-2.5.2-19249f382a1284e528573f6a61de7f50d0cffad6.jar" />
+    </item>
+    <item
+        jar="C:\Users\GuillermoArturo\Desktop\Android\diggy_dog\app\build\intermediates\exploded-aar\com.facebook.android\facebook-android-sdk\4.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="15ad6a46fb8e2ed86556e0b330d738b589dc62c7">
+        <dex dex="C:\Users\GuillermoArturo\Desktop\Android\diggy_dog\app\build\intermediates\pre-dexed\debug\classes-2abd96c6da9ee45399daf9f4951934d9e98b9e58.jar" />
+    </item>
+    <item
+        jar="C:\Users\GuillermoArturo\Desktop\Android\diggy_dog\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="C:\Users\GuillermoArturo\Desktop\Android\diggy_dog\app\build\intermediates\pre-dexed\debug\classes-cba68c3ad9b354d8cffd63cfa14cd14a577218f5.jar" />
+    </item>
+    <item
+        jar="C:\Users\GuillermoArturo\Desktop\Android\diggy_dog\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\libs\internal_impl-22.2.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="C:\Users\GuillermoArturo\Desktop\Android\diggy_dog\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.1-d1bd0637a78e400e420192f1e64fcb4c0121d75a.jar" />
+    </item>
+
+</items>

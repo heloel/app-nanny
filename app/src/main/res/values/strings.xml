@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Diggy Dog</string>
+
+    <string name="facebook_app_id">545685972277652</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="user_registered">Usuario registrado!</string>
+    <string name="operation_failed">La operación falló. Intente nuevamente!</string>
+    <string name="user_loggedIn">Inicio de sesión!</string>
+    <string name="sign_up_error_title">Error al crear cuenta!</string>
+    <string name="log_in_error_title">Error al iniciar sesión!</string>
+
+    <string-array name="nav_drawer_labels">
+        <item>@string/nav_item_home</item>
+        <item>@string/nav_item_acout</item>
+        <item>@string/nav_item_logout</item>
+    </string-array>
+
+    <string name="nav_item_home">Inicio</string>
+    <string name="nav_item_acout">Cuenta</string>
+    <string name="nav_item_logout">Cerrar Sesión</string>
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+
+    <string name="send">Enviar</string>
+    <string name="message_hint">Escribe tu mensaje</string>
+    <string name="profile_me">Mi imagen de perfil</string>
+    <string name="profile_other">Otra imagen de perfil</string>
+
+    <string name="no_friends">Aún no tienes amigos, anímate!!</string>
+    <string name="no_pets">Aún no has registrado a tus mascotas!!</string>
+    <string name="no_find_friends">No se ha encontrado a ningún amigo!!</string>
+
+    <string name="facebook_cancel">Usted ha cancelado hacer login con Facebook.</string>
+    <string name="error_parsing_facebook">"Error al obtener datos de Facebook. "</string>
+    <string name="authentication_error">"Error de autentificación : "</string>
+    <string name="try_again_facebook">"Vuelve a intentarlo. "</string>
+    <string name="other_facebook_error">"Error con Facebook : "</string>
+    <string name="title_activity_maps">Map</string>
+
+</resources>
